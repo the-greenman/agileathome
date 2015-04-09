@@ -1,4 +1,4 @@
-# agileathome
+# agile at home
 Agile software processes for other things
 
 A series of classes that showing how agile software development methodologies can be used in any project. 
