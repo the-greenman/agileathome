@@ -1,6 +1,8 @@
 # agileathome
 Agile software processes for other things
 
+A series of classes that showing how agile software development methodologies can be used in any project. 
+
 
 # History of programming and open source
 Many of the techniques developed to manage software projects can be used in many different environments. The combination of art and engineering that is required to build larger software projects necessitated a whole new way of working. The massively collaborative, decentralised techniques that evolved to build open source projects involving thousands of developers and no managers may require a few tools, but those tools can be used for many purposes now that they have been created. Before learning the processes born in software engineering, it is worth getting an understanding of where and why they evolved. 
