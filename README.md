@@ -1,7 +1,10 @@
 # agile at home
-Agile software processes for other things
+##Agile software processes for other things
 
-A series of classes that showing how agile software development methodologies can be used in any real world project. 
+Software is written with words. The languages used are rather specific so that their meaning can be exact and unambiguous, but they are not that far removed from any other language. The fact that software must be exact, that not a single word can be out of place, makes it very hard for programmers to work together on the same document. One small comma out of place and it all falls down. Yet, how come the same piece of software could have thousands of contributors? More than that, thousands of people working on the same text - and no central plan or project management?
+
+## A course in agile proceses
+Agile at Home is a series of workshops designed to share some of the techniques developed to run software projects 
 
 
 # History of programming and open source
