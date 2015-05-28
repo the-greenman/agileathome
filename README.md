@@ -1,7 +1,7 @@
 # agile at home
 ##Simple, decentalised, project management techniques for most things
 
-Agile at Home is a series of workshops designed to share some of the techniques developed to run software projects. 
+Agile at Home is a series of workshops designed to share some of the techniques developed to run software projects.  
 
 
 
